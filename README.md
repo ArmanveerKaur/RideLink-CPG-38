@@ -1,5 +1,6 @@
 # RideLink-CPG-38
 Capstone Project 
+
 To run the website you need to put following commands in the terminal:
 1. cd desktop/rpi_scripts/
 2. rm trip_log.csv
@@ -22,5 +23,6 @@ This website is also accessible on another device on the same wifi network via h
  1. Tap the RFID card for entry
  2. To exit you need to tap the RFID card again
 
+Link to .apk file of the app: https://drive.google.com/file/d/1Z25h2gLfkD86299lmg-B6ICeLgZy32oX/view?usp=sharing
 
 
