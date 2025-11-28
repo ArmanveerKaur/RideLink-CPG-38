@@ -16,7 +16,7 @@ This website is also accessible on another device on the same wifi network via h
  To demostrate the WiFi based passenger entry-exit log you will have to:
  1. Open the app
  2. Ensure that your WiFi is turned ON
- 3. Now press the "Connect to WiFi button to connect to systema nd log you entry
+ 3. Now press the "Connect to WiFi" button to connect to systema nd log you entry
  4. To exit you have to click the "Disconnect" button OR you can simply move out of WiFi range
 
  To demostrate the RFID based passenger entry-exit log you will have to:
